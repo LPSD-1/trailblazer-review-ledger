@@ -27,6 +27,13 @@
    "pid": "e9e8cc316501a8f8b4e5b2fad3823a206fd75348",
    "pr": 27,
    "state": "failed"
+  },
+  {
+   "at": "2026-10-10T10:44:49Z",
+   "branch_hash": "17f749d0c4836119",
+   "pid": "880dd8330cb8f6280bdd3ef6c60fce6fd4e4d52a",
+   "pr": 34,
+   "state": "claimed"
   }
  ],
  "version": 1
