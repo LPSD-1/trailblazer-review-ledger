@@ -1,11 +1,4 @@
 {
- "entries": {
-  "79e801cf95197a4d0f8c3debd958df012e069b4f": {
-   "at": "2026-10-15T09:33:18Z",
-   "branch_hash": "bd26b0bf50d7b4a9",
-   "pr": 44,
-   "state": "in-progress"
-  }
- },
+ "entries": {},
  "version": 1
 }
