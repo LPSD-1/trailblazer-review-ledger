@@ -1,10 +1,10 @@
 {
  "entries": {
   "1cc43d22ec3d21fdddc8757e2c027b39eeaf95f0": {
-   "at": "2026-10-15T11:44:52Z",
+   "at": "2026-10-15T11:45:50Z",
    "branch_hash": "bb2b522e907fe216",
    "pr": 45,
-   "state": "in-progress"
+   "state": "failed"
   }
  },
  "version": 1
