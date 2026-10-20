@@ -1,41 +1,6 @@
 {
  "failures": [
   {
-   "at": "2026-10-09T10:14:33Z",
-   "branch_hash": "5ba1d43eb277e894",
-   "pid": "86f3ac18910978e833886dd846785772d7699df6",
-   "pr": 24,
-   "state": "failed"
-  },
-  {
-   "at": "2026-10-09T10:38:18Z",
-   "branch_hash": "5ba1d43eb277e894",
-   "pid": "c211991a3006bc28b88dcf32d462b1434cfc5f06",
-   "pr": 24,
-   "state": "error"
-  },
-  {
-   "at": "2026-10-09T10:58:14Z",
-   "branch_hash": "3ef0cfe22ad91428",
-   "pid": "c211991a3006bc28b88dcf32d462b1434cfc5f06",
-   "pr": 27,
-   "state": "failed"
-  },
-  {
-   "at": "2026-10-09T14:00:38Z",
-   "branch_hash": "3ef0cfe22ad91428",
-   "pid": "e9e8cc316501a8f8b4e5b2fad3823a206fd75348",
-   "pr": 27,
-   "state": "failed"
-  },
-  {
-   "at": "2026-10-10T10:44:49Z",
-   "branch_hash": "17f749d0c4836119",
-   "pid": "880dd8330cb8f6280bdd3ef6c60fce6fd4e4d52a",
-   "pr": 34,
-   "state": "failed"
-  },
-  {
    "at": "2026-10-15T00:01:47Z",
    "branch_hash": "078cbf33c0941bb3",
    "pid": "a7a486b6fb875d3bee0b345e4279bf1011fc858b",
@@ -55,6 +20,13 @@
    "pid": "427460977700f8e31709024410fee7a386c9b317",
    "pr": 45,
    "state": "failed"
+  },
+  {
+   "at": "2026-10-20T03:03:02Z",
+   "branch_hash": "8e81a61a58bdd4f9",
+   "pid": "4b08f49b554c04ab2a95817a98315b802e112af1",
+   "pr": 50,
+   "state": "claimed"
   }
  ],
  "version": 1
