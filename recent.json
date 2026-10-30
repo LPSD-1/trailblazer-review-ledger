@@ -1,25 +1,11 @@
 {
  "failures": [
   {
-   "at": "2026-10-15T00:01:47Z",
-   "branch_hash": "078cbf33c0941bb3",
-   "pid": "a7a486b6fb875d3bee0b345e4279bf1011fc858b",
-   "pr": 39,
-   "state": "failed"
-  },
-  {
-   "at": "2026-10-15T11:44:52Z",
-   "branch_hash": "bb2b522e907fe216",
-   "pid": "1cc43d22ec3d21fdddc8757e2c027b39eeaf95f0",
-   "pr": 45,
-   "state": "failed"
-  },
-  {
-   "at": "2026-10-15T12:02:01Z",
-   "branch_hash": "bb2b522e907fe216",
-   "pid": "427460977700f8e31709024410fee7a386c9b317",
-   "pr": 45,
-   "state": "failed"
+   "at": "2026-10-30T16:06:19Z",
+   "branch_hash": "bee35dc9ed95571e",
+   "pid": "fe2fa449366a9429429968742e63129b525e7e18",
+   "pr": 59,
+   "state": "claimed"
   }
  ],
  "version": 1
