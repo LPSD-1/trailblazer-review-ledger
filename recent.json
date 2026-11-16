@@ -1,11 +1,11 @@
 {
  "failures": [
   {
-   "at": "2026-10-30T18:02:18Z",
-   "branch_hash": "4589898b10e0ab32",
-   "pid": "eaa455f4e8168ecac86bce43bea45c96f495f031",
-   "pr": 60,
-   "state": "failed"
+   "at": "2026-11-16T23:04:57Z",
+   "branch_hash": "fbab851586e1df39",
+   "pid": "8734df6ea4a87261fda6946d61d7e393e667c0fd",
+   "pr": 67,
+   "state": "claimed"
   }
  ],
  "version": 1
