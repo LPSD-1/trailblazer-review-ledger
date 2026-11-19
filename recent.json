@@ -1,12 +1,4 @@
 {
- "failures": [
-  {
-   "at": "2026-11-19T17:57:27Z",
-   "branch_hash": "45cf2eb07a21fa08",
-   "pid": "f7070d130f146cd4d1605214228ffdb79e671c67",
-   "pr": 68,
-   "state": "claimed"
-  }
- ],
+ "failures": [],
  "version": 1
 }
